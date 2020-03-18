@@ -11,38 +11,38 @@
         <item
             android:id="@+id/planeta01Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 01" />
+            android:title="Planet 01" />
         <item
             android:id="@+id/planeta02Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 02" />
+            android:title="Planet 02" />
         <item
             android:id="@+id/planeta03Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 03" />
+            android:title="Planet 03" />
         <item
             android:id="@+id/planeta04Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 04" />
+            android:title="Planet 04" />
         <item
             android:id="@+id/planeta05Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 05" />
+            android:title="Planet 05" />
         <item
             android:id="@+id/planeta06Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 06" />
+            android:title="Planet 06" />
         <item
             android:id="@+id/planeta07Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 07" />
+            android:title="Planet 07" />
         <item
             android:id="@+id/planeta08Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 08" />
+            android:title="Planet 08" />
         <item
             android:id="@+id/planeta09Fragment"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Planeta 09" />
+            android:title="Planet 09" />
     </group>
 </menu>

@@ -18,7 +18,7 @@
         android:layout_width="match_parent"
         android:layout_height="130dp"
         android:fontFamily="@font/faster_one"
-        android:text="PLUTON"
+        android:text="PLUTO"
         android:textAlignment="center"
         android:textColor="#E6EF8C"
         android:textSize="60sp" />
