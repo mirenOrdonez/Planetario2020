@@ -30,20 +30,9 @@
     </fragment>
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.planetario2020.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
-
-    <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.planetario2020.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
-    <fragment
         android:id="@+id/planeta01Fragment"
         android:name="com.example.planetario2020.Planeta01Fragment"
-        android:label="Planeta 01"
+        android:label="Planeta01"
         tools:layout="@layout/fragment_planeta01" />
     <fragment
         android:id="@+id/planeta02Fragment"
